@@ -11,8 +11,11 @@ The data Martha will be working with is not ideal, so it will need to be process
 This new assignment consists of four technical analysis parts. I will submit the following:
 
 Part 1: Preprocessing the Data for PCA
+
 Part 2: Reducing Data Dimensions Using PCA
+
 Part 3: Clustering Cryptocurrencies Using K-means
+
 Part 4: Visualizing Cryptocurrencies Results
 
 # Results
